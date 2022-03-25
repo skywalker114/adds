@@ -7,7 +7,7 @@ class Furby
        
     public:
         Furby();
-        void play(int minutes);
+        void play(int minutes) = 0;
         void dance(int minutes) = 0;
 };
 

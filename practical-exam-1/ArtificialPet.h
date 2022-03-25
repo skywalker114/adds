@@ -9,7 +9,7 @@ class ArtificialPet
         ArtifiicialPet();
         bool isHungry();
         void feed();
-        void play(int minutes) = 0;
+        void play(int minutes);
 };
 
 #endif

@@ -1,5 +1,5 @@
 #include "Furby.h"
-
+ 
 Furby::play(int minutes)()
 {
     for(int i;i < minutes < i++)
