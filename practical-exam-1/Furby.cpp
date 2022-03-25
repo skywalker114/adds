@@ -15,5 +15,4 @@ Furby::dance(int minutes)()
         minutes = minutes -3;
         hunger--;
     }
-
 }
